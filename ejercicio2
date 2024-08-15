@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+
+    char mensaje[] = "¡Hola Mundo!";
+
+    printf("%s\n", mensaje);
+
+    return 0;
+}
